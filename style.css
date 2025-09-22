@@ -1,0 +1,29 @@
+.navbar {
+            color: white;
+            background-color: #432818 ;
+        }
+        .heading {
+            background-color: #99582A;
+            text-align: center;
+            padding: 15px;
+        }
+
+        body{
+            background-color: #FBEBE0;
+            font-family: Lexend Deca, sans-serif;
+        }
+        .comments{
+            background-color: rgba(208, 147, 118, 0.6);  
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+    footer {
+        bottom: 0;
+        position:fixed;
+        background-color:#BB9457;
+        width: 100%;
+        padding: 2px;
+        text-align: center;
+    }   
